@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1
 
 # Runtime Stage
-FROM ghcr.io/linuxserver/baseimage-selkies:arch
+FROM ghcr.io/linuxserver-playground/baseimage-selkies:arch
 
 # set version label
 ARG BUILD_DATE
