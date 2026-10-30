@@ -10,6 +10,9 @@ upstream:
   version:
     type: arch_package
     package: vlc
+  sponsor:
+  - name: Donate to VideoLAN
+    url: https://www.videolan.org/contribute.html#money
 
 release:
   branch: master
