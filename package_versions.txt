@@ -30,7 +30,7 @@ aiosignal                                                                     1.
 alsa-lib                                                                      1.2.16.1-1                            alpm                             
 alsa-topology-conf                                                            1.2.5.1-4                             alpm                             
 alsa-ucm-conf                                                                 1.2.16.1-1                            alpm                             
-annotated-doc                                                                 0.0.6                                 python                           
+annotated-doc                                                                 0.0.7                                 python                           
 annotated-types                                                               0.8.0                                 python                           
 anyio                                                                         4.16.0                                python                           
 aom                                                                           3.15.3-1                              alpm                             
@@ -55,7 +55,7 @@ bubblewrap                                                                    0.
 busybox                                                                       1.36.1-4                              alpm                             
 bzip2                                                                         1.0.8-6                               alpm                             
 ca-certificates                                                               20240618-1                            alpm                             
-ca-certificates-mozilla                                                       3.133-1                               alpm                             
+ca-certificates-mozilla                                                       3.134-1                               alpm                             
 ca-certificates-utils                                                         20240618-1                            alpm                             
 cairo                                                                         1.18.6-1                              alpm                             
 catatonit                                                                     0.2.1-2                               alpm                             
@@ -65,7 +65,7 @@ cffi                                                                          2.
 cifs-utils                                                                    7.9-1                                 alpm                             
 cjson                                                                         1.7.19-1                              alpm                             
 click                                                                         8.5.1                                 python                           
-cmake                                                                         4.5.0-1                               alpm                             
+cmake                                                                         4.5.1-1                               alpm                             
 command-line-arguments                                                        UNKNOWN                               go-module                        
 confuse                                                                       3.4-1                                 alpm                             
 connectrpc.com/connect                                                        v1.19.1                               go-module                        
@@ -80,7 +80,7 @@ cups-filters                                                                  2.
 curl                                                                          8.23.0-2                              alpm                             
 cyphar.com/go-pathrs                                                          v0.2.6                                go-module                        
 dario.cat/mergo                                                               v1.0.2                                go-module                        
-dav1d                                                                         1.5.4-1                               alpm                             
+dav1d                                                                         1.5.5-1                               alpm                             
 db5.3                                                                         5.3.28-7                              alpm                             
 dbus                                                                          1.16.4-1                              alpm                             
 dbus-broker                                                                   37-3                                  alpm                             
@@ -96,8 +96,8 @@ diffutils                                                                     3.
 distlib                                                                       0.4.2                                 python                           
 distro                                                                        1.9.0                                 python                           
 dnspython                                                                     2.9.2                                 python                           
-docker                                                                        1:29.9.3-1                            alpm                             
-docker-compose                                                                5.7.1-1                               alpm                             
+docker                                                                        1:29.10.0-1                           alpm                             
+docker-compose                                                                5.8.0-1                               alpm                             
 double-conversion                                                             3.4.0-1                               alpm                             
 duktape                                                                       2.7.0-7                               alpm                             
 dunst                                                                         1.13.2-3                              alpm                             
@@ -110,18 +110,18 @@ elfutils                                                                      0.
 expat                                                                         2.10.0-1                              alpm                             
 faad2                                                                         2.11.4-1                              alpm                             
 fakeroot                                                                      2:1.37.2-1                            alpm                             
-fastapi                                                                       0.163.1                               python                           
+fastapi                                                                       0.165.0                               python                           
 fcft                                                                          3.3.3-1                               alpm                             
-ffmpeg                                                                        2:9.0.2-5                             alpm                             
+ffmpeg                                                                        2:9.1-1                               alpm                             
 fftw                                                                          3.3.11-1                              alpm                             
 file                                                                          5.48-1                                alpm                             
 filesystem                                                                    2025.10.12-1                          alpm                             
 findutils                                                                     4.11.0-1                              alpm                             
 flac                                                                          1.5.0-1                               alpm                             
 flac-libs                                                                     1.3.2-9.el8_8.1                       rpm                              
-flex                                                                          2.6.10-1                              alpm                             
+flex                                                                          2.7.1-1                               alpm                             
 fluidsynth                                                                    2.6.2-1                               alpm                             
-fontconfig                                                                    2:2.18.3-2                            alpm                             
+fontconfig                                                                    2:2.18.4-1                            alpm                             
 foot                                                                          1.28.0-2                              alpm                             
 freeglut                                                                      3.8.0-1                               alpm                             
 freetype2                                                                     2.15.0-1                              alpm                             
@@ -136,13 +136,13 @@ gawk                                                                          5.
 gc                                                                            8.2.12-1                              alpm                             
 gcc                                                                           16.2.1+r23+gd564253eb6c8-1            alpm                             
 gcc-libs                                                                      16.2.1+r23+gd564253eb6c8-1            alpm                             
-gdb                                                                           18.1-1                                alpm                             
-gdb-common                                                                    18.1-1                                alpm                             
+gdb                                                                           18.1-2                                alpm                             
+gdb-common                                                                    18.1-2                                alpm                             
 gdbm                                                                          1.26-2                                alpm                             
 gdk-pixbuf2                                                                   2.44.8-1                              alpm                             
 gettext                                                                       1.0-2                                 alpm                             
 giflib                                                                        6.1.3-2                               alpm                             
-github.com/DefangLabs/secret-detector                                         v0.0.0-20260916192156-3e28d7ed64df    go-module                        
+github.com/DefangLabs/secret-detector                                         v1.1.0                                go-module                        
 github.com/Microsoft/hcsshim                                                  v0.15.0-rc.4                          go-module       (+1 duplicate)   
 github.com/ProtonMail/go-crypto                                               v1.4.1                                go-module                        
 github.com/acarl005/stripansi                                                 v0.0.0-20180116102854-5a71ef0e047d    go-module                        
@@ -157,7 +157,7 @@ github.com/checkpoint-restore/go-criu/v8                                      v8
 github.com/cilium/ebpf                                                        v0.17.3                               go-module       (+3 duplicates)  
 github.com/clipperhouse/uax29/v2                                              v2.2.0                                go-module                        
 github.com/cloudflare/circl                                                   v1.6.3                                go-module                        
-github.com/compose-spec/compose-go/v2                                         v2.16.2                               go-module                        
+github.com/compose-spec/compose-go/v2                                         v2.17.0                               go-module                        
 github.com/containerd/btrfs/v2                                                v2.0.0                                go-module                        
 github.com/containerd/cgroups/v3                                              v3.1.3                                go-module       (+2 duplicates)  
 github.com/containerd/console                                                 v1.0.5                                go-module       (+4 duplicates)  
@@ -187,7 +187,7 @@ github.com/containers/ocicrypt                                                v1
 github.com/coreos/go-systemd/v22                                              v22.7.0                               go-module       (+3 duplicates)  
 github.com/cyphar/filepath-securejoin                                         v0.7.0                                go-module       (+1 duplicate)   
 github.com/distribution/reference                                             v0.6.0                                go-module       (+3 duplicates)  
-github.com/docker/cli                                                         v29.9.3+incompatible                  go-module                        
+github.com/docker/cli                                                         v29.10.0+incompatible                 go-module                        
 github.com/docker/cli-docs-tool                                               v0.11.0                               go-module                        
 github.com/docker/cli/cmd/docker                                              UNKNOWN                               go-module                        
 github.com/docker/compose/v5                                                  UNKNOWN                               go-module                        
@@ -222,7 +222,6 @@ github.com/grpc-ecosystem/grpc-gateway/v2                                     v2
 github.com/hashicorp/go-version                                               v1.9.0                                go-module                        
 github.com/in-toto/attestation                                                v1.2.0                                go-module                        
 github.com/in-toto/in-toto-golang                                             v0.11.0                               go-module                        
-github.com/inhies/go-bytesize                                                 v0.0.0-20220417184213-4913239db9cf    go-module                        
 github.com/intel/goresctrl                                                    v0.13.0                               go-module       (+1 duplicate)   
 github.com/klauspost/compress                                                 v1.20.0                               go-module       (+3 duplicates)  
 github.com/knqyf263/go-plugin                                                 v0.9.0                                go-module                        
@@ -234,10 +233,11 @@ github.com/miekg/pkcs11                                                       v1
 github.com/mistifyio/go-zfs/v3                                                v3.0.1                                go-module                        
 github.com/moby/buildkit                                                      v0.33.1                               go-module                        
 github.com/moby/docker-image-spec                                             v1.3.1                                go-module                        
+github.com/moby/extensions                                                    v0.0.0-20261020100352-d2819d88bcbe    go-module                        
 github.com/moby/go-archive                                                    v0.3.3                                go-module                        
 github.com/moby/locker                                                        v1.0.1                                go-module       (+3 duplicates)  
-github.com/moby/moby/api                                                      v1.56.1                               go-module                        
-github.com/moby/moby/client                                                   v0.6.2                                go-module                        
+github.com/moby/moby/api                                                      v1.57.0                               go-module                        
+github.com/moby/moby/client                                                   v0.6.3                                go-module                        
 github.com/moby/moby/v2/cmd/docker-proxy                                      UNKNOWN                               go-module                        
 github.com/moby/moby/v2/cmd/dockerd                                           UNKNOWN                               go-module                        
 github.com/moby/patternmatcher                                                v0.6.1                                go-module                        
@@ -302,7 +302,7 @@ glibc-locales                                                                 2.
 glm                                                                           1.0.3-1                               alpm                             
 glslang                                                                       1:1.4.363.0-1                         alpm                             
 glu                                                                           9.0.3-3                               alpm                             
-glycin                                                                        2.2.6-1                               alpm                             
+glycin                                                                        2.2.6-2                               alpm                             
 gmp                                                                           6.3.0-3                               alpm                             
 gnulib-l10n                                                                   20241231-1                            alpm                             
 gnupg                                                                         2.4.9-4                               alpm                             
@@ -336,10 +336,10 @@ golang.org/x/net                                                              v0
 golang.org/x/net                                                              v0.58.0                               go-module       (+3 duplicates)  
 golang.org/x/net                                                              v0.60.0                               go-module                        
 golang.org/x/sync                                                             v0.23.0                               go-module       (+3 duplicates)  
-golang.org/x/sync                                                             v0.24.0                               go-module                        
+golang.org/x/sync                                                             v0.25.0                               go-module                        
 golang.org/x/sys                                                              v0.46.0                               go-module                        
 golang.org/x/sys                                                              v0.48.0                               go-module       (+3 duplicates)  
-golang.org/x/sys                                                              v0.49.0                               go-module                        
+golang.org/x/sys                                                              v0.50.0                               go-module                        
 golang.org/x/term                                                             v0.45.0                               go-module                        
 golang.org/x/text                                                             v0.41.0                               go-module       (+2 duplicates)  
 golang.org/x/text                                                             v0.42.0                               go-module                        
@@ -365,8 +365,8 @@ gsettings-desktop-schemas                                                     51
 gsettings-system-schemas                                                      51.0-1                                alpm                             
 gsm                                                                           1.0.17-5.el8                          rpm                              
 gsm                                                                           1.0.24-1                              alpm                             
-gst-plugins-base-libs                                                         1.28.9-2                              alpm                             
-gstreamer                                                                     1.28.9-2                              alpm                             
+gst-plugins-base-libs                                                         1.28.9-3                              alpm                             
+gstreamer                                                                     1.28.9-3                              alpm                             
 gtest                                                                         1.18.0-1                              alpm                             
 gtk-update-icon-cache                                                         1:4.24.1-1                            alpm                             
 gtk3                                                                          1:3.24.52-2                           alpm                             
@@ -385,7 +385,7 @@ iana-etc                                                                      20
 icu                                                                           78.3-1                                alpm                             
 idna                                                                          3.18                                  python                           
 idna                                                                          3.20                                  python                           
-imlib2                                                                        1.13.0-1                              alpm                             
+imlib2                                                                        1.13.0-2                              alpm                             
 inetutils                                                                     2.8-1                                 alpm                             
 intel-gmmlib                                                                  22.10.2-1                             alpm                             
 intel-media-driver                                                            26.3.5-1                              alpm                             
@@ -455,7 +455,7 @@ libcddb                                                                       1.
 libcloudproviders                                                             0.4.2-1                               alpm                             
 libcolord                                                                     1.4.8-2                               alpm                             
 libcups                                                                       2:2.4.20-1                            alpm                             
-libcupsfilters                                                                2.2.1.r80.ge1dde819-1                 alpm                             
+libcupsfilters                                                                2.2.1.r108.g3bf18925-1                alpm                             
 libdaemon                                                                     0.14-6                                alpm                             
 libdatrie                                                                     0.2.14-1                              alpm                             
 libdc1394                                                                     2.2.7-2                               alpm                             
@@ -477,8 +477,8 @@ libev                                                                         4.
 libevdev                                                                      1.14.0-1                              alpm                             
 libevent                                                                      2.1.13-3                              alpm                             
 libexif                                                                       0.6.26-1                              alpm                             
-libffi                                                                        3.8.0-1                               alpm                             
-libfontenc                                                                    1.1.9-1                               alpm                             
+libffi                                                                        3.8.1-1                               alpm                             
+libfontenc                                                                    1.1.10-1                              alpm                             
 libftdi                                                                       1.5-10                                alpm                             
 libgcc                                                                        16.2.1+r23+gd564253eb6c8-1            alpm                             
 libgcrypt                                                                     1.12.4-1                              alpm                             
@@ -501,7 +501,7 @@ libinput                                                                      1.
 libisl                                                                        0.28-1                                alpm                             
 libjpeg / libjpeg-turbo                                                       3.2.0                                 UnknownPackage                   
 libjpeg-turbo                                                                 3.2.1-1                               alpm                             
-libjxl                                                                        0.12.0-1                              alpm                             
+libjxl                                                                        0.13.0-1                              alpm                             
 libkate                                                                       0.4.3-4                               alpm                             
 libksba                                                                       1.8.1-1                               alpm                             
 libldap                                                                       2.7.2-3                               alpm                             
@@ -540,7 +540,7 @@ libpathrs                                                                     0.
 libpcap                                                                       1.11.0-1                              alpm                             
 libpciaccess                                                                  0.19-1                                alpm                             
 libpgm                                                                        5.3.128-4                             alpm                             
-libpipewire                                                                   1:1.6.11-1                            alpm                             
+libpipewire                                                                   1:1.6.11-2                            alpm                             
 libplacebo                                                                    7.387.0-1                             alpm                             
 libpng                                                                        1.6.59-1                              alpm                             
 libppd                                                                        2.1.1-2                               alpm                             
@@ -595,7 +595,7 @@ libva-intel-driver                                                            2.
 libva-utils                                                                   2.24.0-1                              alpm                             
 libvdpau                                                                      1.5-4                                 alpm                             
 libverto                                                                      0.3.2-6                               alpm                             
-libvlc                                                                        3.0.24-1                              alpm                             
+libvlc                                                                        3.0.24-2                              alpm                             
 libvorbis                                                                     1.3.6-2.el8                           rpm             (+1 duplicate)   
 libvorbis                                                                     1.3.7-4                               alpm                             
 libvpl                                                                        2.17.0-1                              alpm                             
@@ -618,7 +618,7 @@ libxdmcp                                                                      1.
 libxext                                                                       1.3.7-1                               alpm                             
 libxfce4util                                                                  4.20.1-1                              alpm                             
 libxfixes                                                                     6.0.2-1                               alpm                             
-libxfont2                                                                     2.0.9-1                               alpm                             
+libxfont2                                                                     2.0.10-1                              alpm                             
 libxft                                                                        2.3.9-1                               alpm                             
 libxi                                                                         1.8.4-1                               alpm                             
 libxinerama                                                                   1.1.6-1                               alpm                             
@@ -656,7 +656,7 @@ markdown                                                                      3.
 markupsafe                                                                    3.0.4                                 python                           
 mbedtls3                                                                      3.6.7-1                               alpm                             
 md4c                                                                          0.6.0-2                               alpm                             
-mesa                                                                          1:26.2.7-1                            alpm                             
+mesa                                                                          1:26.3.1-2                            alpm                             
 more-itertools                                                                11.2.1                                python                           
 mpdecimal                                                                     4.0.1-3                               alpm                             
 mpfr                                                                          4.2.2-1                               alpm                             
@@ -669,15 +669,15 @@ ncurses                                                                       6.
 nettle                                                                        4.0-1                                 alpm                             
 nftables                                                                      0.1                                   python                           
 nftables                                                                      1:1.1.7-3                             alpm                             
-nginx                                                                         1.30.6-3                              alpm                             
+nginx                                                                         1.30.7-1                              alpm                             
 nginx-mod-fancyindex                                                          0.5.2-1                               alpm                             
 nginx-mod-fancyindex-debug                                                    0.5.2-1                               alpm                             
 noto-fonts                                                                    1:2026.11.01-1                        alpm                             
 noto-fonts-cjk                                                                20240730-1                            alpm                             
 noto-fonts-emoji                                                              1:20260924-1                          alpm                             
 npth                                                                          1.8-1                                 alpm                             
-nspr                                                                          4.40-1                                alpm                             
-nss                                                                           3.133-1                               alpm                             
+nspr                                                                          4.41-1                                alpm                             
+nss                                                                           3.134-1                               alpm                             
 numactl                                                                       2.0.19-1                              alpm                             
 nvidia-ml-py                                                                  13.615.71                             python                           
 ocl-icd                                                                       2.3.5-1                               alpm                             
@@ -706,7 +706,7 @@ pcmflux                                                                       2.
 pcre                                                                          8.45-5                                alpm                             
 pcre2                                                                         10.32-3.el8_6                         rpm                              
 pcre2                                                                         10.49-1                               alpm                             
-pcsclite                                                                      2.5.3-1                               alpm                             
+pcsclite                                                                      2.5.4-1                               alpm                             
 pdfio                                                                         1.6.6-1                               alpm                             
 pelorus                                                                       0.2.3                                 python                           
 perl                                                                          5.44.0-1                              alpm                             
@@ -716,7 +716,7 @@ pip                                                                           26
 pip                                                                           UNKNOWN                               UnknownPackage                   
 pixelflux                                                                     2.2.1                                 python                           
 pixman                                                                        0.46.4-1                              alpm                             
-pkgconf                                                                       3.0.10-1                              alpm                             
+pkgconf                                                                       3.0.11-1                              alpm                             
 platformdirs                                                                  4.10.0                                python                           
 platformdirs                                                                  4.14.5                                python                           
 polkit                                                                        128-1                                 alpm                             
@@ -736,8 +736,8 @@ pulsectl                                                                      24
 pulsectl-asyncio                                                              1.3.2                                 python                           
 pybind11                                                                      UNKNOWN                               python                           
 pycparser                                                                     3.12                                  python                           
-pydantic                                                                      2.14.3                                python                           
-pydantic-core                                                                 2.50.4                                python                           
+pydantic                                                                      2.14.4                                python                           
+pydantic-core                                                                 2.50.5                                python                           
 pyee                                                                          16.1.0                                python                           
 pygments                                                                      2.20.0                                python                           
 pygobject                                                                     3.58.1                                python                           
@@ -795,7 +795,7 @@ sigs.k8s.io/yaml                                                              v1
 slang                                                                         2.3.3-4                               alpm                             
 smbclient                                                                     2:4.25.1-1                            alpm                             
 snappy                                                                        1.3.1-1                               alpm                             
-sndio                                                                         1.10.0-1                              alpm                             
+sndio                                                                         1.11.0-1                              alpm                             
 source-highlight                                                              3.1.9-19                              alpm                             
 speex                                                                         1.2.1-3                               alpm                             
 speexdsp                                                                      1.2.1-3                               alpm                             
@@ -810,8 +810,7 @@ starlette                                                                     1.
 startup-notification                                                          0.12-9                                alpm                             
 stdlib                                                                        go1.26.1-X:nodwarf5                   go-module                        
 stdlib                                                                        go1.27.2-X:nodwarf5                   go-module       (+3 duplicates)  
-stdlib                                                                        go1.27.3-X:nodwarf5                   go-module       (+2 duplicates)  
-stdlib                                                                        go1.27.4-X:nodwarf5                   go-module       (+1 duplicate)   
+stdlib                                                                        go1.27.4-X:nodwarf5                   go-module       (+4 duplicates)  
 sudo                                                                          1.9.17.p2-7                           alpm                             
 svt-av1                                                                       4.3.0-1                               alpm                             
 systemd                                                                       262.2-1                               alpm                             
@@ -828,7 +827,7 @@ texinfo                                                                       7.
 tinysparql                                                                    3.12.0-1                              alpm                             
 tomli                                                                         2.4.1                                 python                           
 tomli-w                                                                       1.2.0                                 python                           
-tpm2-tss                                                                      4.2.1-2                               alpm                             
+tpm2-tss                                                                      4.2.2s-1                              alpm                             
 truststore                                                                    0.10.4                                python                           
 tslib                                                                         1.24-1                                alpm                             
 ttf-dejavu                                                                    2.37+18+g9b5d1b2f-8                   alpm                             
@@ -845,90 +844,90 @@ v4l-utils                                                                     1.
 vapoursynth                                                                   81                                    python                           
 vapoursynth                                                                   81-1                                  alpm                             
 vid.stab                                                                      1.1.2-1                               alpm                             
-vlc                                                                           3.0.24-1                              alpm                             
-vlc-cli                                                                       3.0.24-1                              alpm                             
-vlc-gui-qt                                                                    3.0.24-1                              alpm                             
-vlc-plugin-a52dec                                                             3.0.24-1                              alpm                             
-vlc-plugin-aalib                                                              3.0.24-1                              alpm                             
-vlc-plugin-alsa                                                               3.0.24-1                              alpm                             
-vlc-plugin-aom                                                                3.0.24-1                              alpm                             
-vlc-plugin-archive                                                            3.0.24-1                              alpm                             
-vlc-plugin-aribb24                                                            3.0.24-1                              alpm                             
-vlc-plugin-aribb25                                                            3.0.24-1                              alpm                             
-vlc-plugin-ass                                                                3.0.24-1                              alpm                             
-vlc-plugin-avahi                                                              3.0.24-1                              alpm                             
-vlc-plugin-bluray                                                             3.0.24-1                              alpm                             
-vlc-plugin-caca                                                               3.0.24-1                              alpm                             
-vlc-plugin-cddb                                                               3.0.24-1                              alpm                             
-vlc-plugin-chromecast                                                         3.0.24-1                              alpm                             
-vlc-plugin-dav1d                                                              3.0.24-1                              alpm                             
-vlc-plugin-dbus                                                               3.0.24-1                              alpm                             
-vlc-plugin-dbus-screensaver                                                   3.0.24-1                              alpm                             
-vlc-plugin-dca                                                                3.0.24-1                              alpm                             
-vlc-plugin-dvb                                                                3.0.24-1                              alpm                             
-vlc-plugin-dvd                                                                3.0.24-1                              alpm                             
-vlc-plugin-faad2                                                              3.0.24-1                              alpm                             
-vlc-plugin-ffmpeg                                                             3.0.24-1                              alpm                             
-vlc-plugin-firewire                                                           3.0.24-1                              alpm                             
-vlc-plugin-flac                                                               3.0.24-1                              alpm                             
-vlc-plugin-fluidsynth                                                         3.0.24-1                              alpm                             
-vlc-plugin-freetype                                                           3.0.24-1                              alpm                             
-vlc-plugin-gme                                                                3.0.24-1                              alpm                             
-vlc-plugin-gnutls                                                             3.0.24-1                              alpm                             
-vlc-plugin-gstreamer                                                          3.0.24-1                              alpm                             
-vlc-plugin-inflate                                                            3.0.24-1                              alpm                             
-vlc-plugin-jack                                                               3.0.24-1                              alpm                             
-vlc-plugin-journal                                                            3.0.24-1                              alpm                             
-vlc-plugin-jpeg                                                               3.0.24-1                              alpm                             
-vlc-plugin-kate                                                               3.0.24-1                              alpm                             
-vlc-plugin-libsecret                                                          3.0.24-1                              alpm                             
-vlc-plugin-lirc                                                               3.0.24-1                              alpm                             
-vlc-plugin-live555                                                            3.0.24-1                              alpm                             
-vlc-plugin-lua                                                                3.0.24-1                              alpm                             
-vlc-plugin-mad                                                                3.0.24-1                              alpm                             
-vlc-plugin-matroska                                                           3.0.24-1                              alpm                             
-vlc-plugin-mdns                                                               3.0.24-1                              alpm                             
-vlc-plugin-modplug                                                            3.0.24-1                              alpm                             
-vlc-plugin-mpeg2                                                              3.0.24-1                              alpm                             
-vlc-plugin-mpg123                                                             3.0.24-1                              alpm                             
-vlc-plugin-mtp                                                                3.0.24-1                              alpm                             
-vlc-plugin-musepack                                                           3.0.24-1                              alpm                             
-vlc-plugin-nfs                                                                3.0.24-1                              alpm                             
-vlc-plugin-notify                                                             3.0.24-1                              alpm                             
-vlc-plugin-ogg                                                                3.0.24-1                              alpm                             
-vlc-plugin-opus                                                               3.0.24-1                              alpm                             
-vlc-plugin-png                                                                3.0.24-1                              alpm                             
-vlc-plugin-pulse                                                              3.0.24-1                              alpm                             
-vlc-plugin-samplerate                                                         3.0.24-1                              alpm                             
-vlc-plugin-sdl                                                                3.0.24-1                              alpm                             
-vlc-plugin-sftp                                                               3.0.24-1                              alpm                             
-vlc-plugin-shout                                                              3.0.24-1                              alpm                             
-vlc-plugin-smb                                                                3.0.24-1                              alpm                             
-vlc-plugin-soxr                                                               3.0.24-1                              alpm                             
-vlc-plugin-speex                                                              3.0.24-1                              alpm                             
-vlc-plugin-srt                                                                3.0.24-1                              alpm                             
-vlc-plugin-svg                                                                3.0.24-1                              alpm                             
-vlc-plugin-tag                                                                3.0.24-1                              alpm                             
-vlc-plugin-theora                                                             3.0.24-1                              alpm                             
-vlc-plugin-twolame                                                            3.0.24-1                              alpm                             
-vlc-plugin-udev                                                               3.0.24-1                              alpm                             
-vlc-plugin-upnp                                                               3.0.24-1                              alpm                             
-vlc-plugin-vorbis                                                             3.0.24-1                              alpm                             
-vlc-plugin-vpx                                                                3.0.24-1                              alpm                             
-vlc-plugin-x264                                                               3.0.24-1                              alpm                             
-vlc-plugin-x265                                                               3.0.24-1                              alpm                             
-vlc-plugin-xml                                                                3.0.24-1                              alpm                             
-vlc-plugin-zvbi                                                               3.0.24-1                              alpm                             
-vlc-plugins-all                                                               3.0.24-1                              alpm                             
-vlc-plugins-base                                                              3.0.24-1                              alpm                             
-vlc-plugins-extra                                                             3.0.24-1                              alpm                             
-vlc-plugins-video-output                                                      3.0.24-1                              alpm                             
-vlc-plugins-visualization                                                     3.0.24-1                              alpm                             
+vlc                                                                           3.0.24-2                              alpm                             
+vlc-cli                                                                       3.0.24-2                              alpm                             
+vlc-gui-qt                                                                    3.0.24-2                              alpm                             
+vlc-plugin-a52dec                                                             3.0.24-2                              alpm                             
+vlc-plugin-aalib                                                              3.0.24-2                              alpm                             
+vlc-plugin-alsa                                                               3.0.24-2                              alpm                             
+vlc-plugin-aom                                                                3.0.24-2                              alpm                             
+vlc-plugin-archive                                                            3.0.24-2                              alpm                             
+vlc-plugin-aribb24                                                            3.0.24-2                              alpm                             
+vlc-plugin-aribb25                                                            3.0.24-2                              alpm                             
+vlc-plugin-ass                                                                3.0.24-2                              alpm                             
+vlc-plugin-avahi                                                              3.0.24-2                              alpm                             
+vlc-plugin-bluray                                                             3.0.24-2                              alpm                             
+vlc-plugin-caca                                                               3.0.24-2                              alpm                             
+vlc-plugin-cddb                                                               3.0.24-2                              alpm                             
+vlc-plugin-chromecast                                                         3.0.24-2                              alpm                             
+vlc-plugin-dav1d                                                              3.0.24-2                              alpm                             
+vlc-plugin-dbus                                                               3.0.24-2                              alpm                             
+vlc-plugin-dbus-screensaver                                                   3.0.24-2                              alpm                             
+vlc-plugin-dca                                                                3.0.24-2                              alpm                             
+vlc-plugin-dvb                                                                3.0.24-2                              alpm                             
+vlc-plugin-dvd                                                                3.0.24-2                              alpm                             
+vlc-plugin-faad2                                                              3.0.24-2                              alpm                             
+vlc-plugin-ffmpeg                                                             3.0.24-2                              alpm                             
+vlc-plugin-firewire                                                           3.0.24-2                              alpm                             
+vlc-plugin-flac                                                               3.0.24-2                              alpm                             
+vlc-plugin-fluidsynth                                                         3.0.24-2                              alpm                             
+vlc-plugin-freetype                                                           3.0.24-2                              alpm                             
+vlc-plugin-gme                                                                3.0.24-2                              alpm                             
+vlc-plugin-gnutls                                                             3.0.24-2                              alpm                             
+vlc-plugin-gstreamer                                                          3.0.24-2                              alpm                             
+vlc-plugin-inflate                                                            3.0.24-2                              alpm                             
+vlc-plugin-jack                                                               3.0.24-2                              alpm                             
+vlc-plugin-journal                                                            3.0.24-2                              alpm                             
+vlc-plugin-jpeg                                                               3.0.24-2                              alpm                             
+vlc-plugin-kate                                                               3.0.24-2                              alpm                             
+vlc-plugin-libsecret                                                          3.0.24-2                              alpm                             
+vlc-plugin-lirc                                                               3.0.24-2                              alpm                             
+vlc-plugin-live555                                                            3.0.24-2                              alpm                             
+vlc-plugin-lua                                                                3.0.24-2                              alpm                             
+vlc-plugin-mad                                                                3.0.24-2                              alpm                             
+vlc-plugin-matroska                                                           3.0.24-2                              alpm                             
+vlc-plugin-mdns                                                               3.0.24-2                              alpm                             
+vlc-plugin-modplug                                                            3.0.24-2                              alpm                             
+vlc-plugin-mpeg2                                                              3.0.24-2                              alpm                             
+vlc-plugin-mpg123                                                             3.0.24-2                              alpm                             
+vlc-plugin-mtp                                                                3.0.24-2                              alpm                             
+vlc-plugin-musepack                                                           3.0.24-2                              alpm                             
+vlc-plugin-nfs                                                                3.0.24-2                              alpm                             
+vlc-plugin-notify                                                             3.0.24-2                              alpm                             
+vlc-plugin-ogg                                                                3.0.24-2                              alpm                             
+vlc-plugin-opus                                                               3.0.24-2                              alpm                             
+vlc-plugin-png                                                                3.0.24-2                              alpm                             
+vlc-plugin-pulse                                                              3.0.24-2                              alpm                             
+vlc-plugin-samplerate                                                         3.0.24-2                              alpm                             
+vlc-plugin-sdl                                                                3.0.24-2                              alpm                             
+vlc-plugin-sftp                                                               3.0.24-2                              alpm                             
+vlc-plugin-shout                                                              3.0.24-2                              alpm                             
+vlc-plugin-smb                                                                3.0.24-2                              alpm                             
+vlc-plugin-soxr                                                               3.0.24-2                              alpm                             
+vlc-plugin-speex                                                              3.0.24-2                              alpm                             
+vlc-plugin-srt                                                                3.0.24-2                              alpm                             
+vlc-plugin-svg                                                                3.0.24-2                              alpm                             
+vlc-plugin-tag                                                                3.0.24-2                              alpm                             
+vlc-plugin-theora                                                             3.0.24-2                              alpm                             
+vlc-plugin-twolame                                                            3.0.24-2                              alpm                             
+vlc-plugin-udev                                                               3.0.24-2                              alpm                             
+vlc-plugin-upnp                                                               3.0.24-2                              alpm                             
+vlc-plugin-vorbis                                                             3.0.24-2                              alpm                             
+vlc-plugin-vpx                                                                3.0.24-2                              alpm                             
+vlc-plugin-x264                                                               3.0.24-2                              alpm                             
+vlc-plugin-x265                                                               3.0.24-2                              alpm                             
+vlc-plugin-xml                                                                3.0.24-2                              alpm                             
+vlc-plugin-zvbi                                                               3.0.24-2                              alpm                             
+vlc-plugins-all                                                               3.0.24-2                              alpm                             
+vlc-plugins-base                                                              3.0.24-2                              alpm                             
+vlc-plugins-extra                                                             3.0.24-2                              alpm                             
+vlc-plugins-video-output                                                      3.0.24-2                              alpm                             
+vlc-plugins-visualization                                                     3.0.24-2                              alpm                             
 vmaf                                                                          3.2.1-1                               alpm                             
 vulkan-icd-loader                                                             1.4.363.0-1                           alpm                             
-vulkan-intel                                                                  1:26.2.7-1                            alpm                             
-vulkan-mesa-implicit-layers                                                   1:26.2.7-1                            alpm                             
-vulkan-radeon                                                                 1:26.2.7-1                            alpm                             
+vulkan-intel                                                                  1:26.3.1-2                            alpm                             
+vulkan-mesa-implicit-layers                                                   1:26.3.1-2                            alpm                             
+vulkan-radeon                                                                 1:26.3.1-2                            alpm                             
 vulkan-tools                                                                  1.4.363.0-1                           alpm                             
 watchdog                                                                      7.1.0                                 python                           
 watchfiles                                                                    1.3.0                                 python                           
